@@ -1,0 +1,15 @@
+Tener en cuenta que el enunciado está mal redactado. Para el caso de prueba 1, la salida debería ser:
+Cantidad de alumnos participantes: 1 
+Alumnos sin rectas con pendiente positiva: 0 
+Cantidad total de rectas con pendiente positiva: 2 
+Mayor pendiente positiva de una recta: 2.0 
+
+Ya que se ingresan 2 rectas (4 pares de puntos). Sin embargo, la salida puesta en el enunciado es:
+Cantidad de alumnos participantes: 2 
+Alumnos sin rectas con pendiente positiva: 0 
+Cantidad total de rectas con pendiente positiva: 2 
+Mayor pendiente positiva de una recta: 2.0 
+
+Dice cantidad de alumnos participantes = 2, lo cual no tiene sentido siguiendo la lógica del enunciado. 
+
+Tener esto en cuenta antes de resolver el ejercicio. 
