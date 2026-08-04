@@ -93,7 +93,7 @@ Puede utilizarse libremente para estudiar y practicar, respetando siempre la aut
 
 **¡Muchos éxitos en la cursada!**
 
-*Si te resultó útil, dejame una estrellita ⭐*
+*Si te resultó útil, dejá una estrellita ⭐*
 
 </div>
 
