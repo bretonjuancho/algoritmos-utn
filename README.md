@@ -1,4 +1,6 @@
-# 📚 Algoritmos UTN
+<div align="center">
+ <h1>📚 Algoritmos UTN</h1>
+</div>
 
 <div align="center">
 
