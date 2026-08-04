@@ -91,7 +91,8 @@ Puede utilizarse libremente para estudiar y practicar, respetando siempre la aut
 
 <div align="center">
 
- **¡Muchos éxitos en la cursada!**
+**¡Muchos éxitos en la cursada!**
+
 *Si te resultó útil, dejame una estrellita ⭐*
 
 </div>
