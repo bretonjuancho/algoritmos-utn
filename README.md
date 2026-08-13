@@ -1,4 +1,6 @@
-# 📚 Algoritmos UTN
+<div align="center">
+ <h1>📚 Algoritmos UTN</h1>
+</div>
 
 <div align="center">
 
@@ -91,6 +93,9 @@ Puede utilizarse libremente para estudiar y practicar, respetando siempre la aut
 
 <div align="center">
 
-**¡Muchos éxitos en la cursada! 🚀**
+**¡Muchos éxitos en la cursada!**
+
+*Si te resultó útil, dejá una estrellita ⭐*
 
 </div>
+
