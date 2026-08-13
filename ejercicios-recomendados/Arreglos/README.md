@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Ejercicios prácticos para practicar **Arreglos**.
+Ejercicios prácticos para entrenar **Arreglos**.
 
 </div>
 
@@ -10,10 +10,10 @@ Ejercicios prácticos para practicar **Arreglos**.
 
 ## 📋 Índice
 
-| 1 | [Omitiendo la intersección](https://omegaup.com/arena/problem/Omitiendo-la-interseccion/) |
-| 2 | [Conjunto Permutado](https://omegaup.com/arena/problem/Conjunto-Permutado/) | 
-| 3 | [Acomodando Zapatillas](https://omegaup.com/arena/problem/Acomodando-zapatillas/) |
-| 4 | [Ordenando en cubetas](https://omegaup.com/arena/problem/Ordenando-en-cubetas/) |
+1. [Omitiendo la intersección](https://omegaup.com/arena/problem/Omitiendo-la-interseccion/)
+2. [Conjunto Permutado](https://omegaup.com/arena/problem/Conjunto-Permutado/)
+3. [Acomodando Zapatillas](https://omegaup.com/arena/problem/Acomodando-zapatillas/)
+4. [Ordenando en cubetas](https://omegaup.com/arena/problem/Ordenando-en-cubetas/)
 
 ---
 
