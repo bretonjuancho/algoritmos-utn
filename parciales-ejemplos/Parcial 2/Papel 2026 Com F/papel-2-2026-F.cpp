@@ -72,6 +72,7 @@ void borrado(int vec[], int &tl){
         if(vec[i] == -1){
             for(int j = i; j < tl-1; j++) vec[j] = vec[j+1];
             tl--;
+            i--;
         }
     }
 }
@@ -90,7 +91,7 @@ bool aprobado(int notas[], int tl, int comision, int id){
         int comActual = notas[i] / 1000000;
         int idActual = (notas[i] / 10000) % 100;
        
-        if(comision == comActual and id == idActual){
+        if((comision == comActual) and (id == idActual)){
             float promedio = notas[i]%1000 + notas[i+1]%1000 + notas[i+2]%1000;
             promedio /= 3.0;
 
