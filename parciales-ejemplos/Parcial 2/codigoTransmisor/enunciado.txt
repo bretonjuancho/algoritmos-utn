@@ -1,0 +1,8 @@
+Dada una secuencia de N enteros (dígitos del 0 al 9) almacenados en un arreglo, determine si un código de verificación T de 4 dígitos se encuentra presente dentro de la secuencia como un bloque de 4 posiciones contiguas.
+
+Entrada: 
+Primera línea: Un número entero T (0 <= T <= 9999). Si T tiene menos de 4 dígitos, se considera completado con ceros a la izquierda (por ejemplo, 7 0007).
+Segunda línea: La cantidad de elementos del vector N. (0 <= N <= 10000) 
+Tercera línea: N enteros separados por espacios, que representan el arreglo. 
+
+Salida: Imprimir SI si los 4 dígitos de $t$ aparecen de forma contigua en el arreglo, o NO en caso contrario.

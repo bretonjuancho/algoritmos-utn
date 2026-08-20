@@ -6,6 +6,7 @@ using namespace std;
 void mostrarArreglo(int [], int);
 void intercambio(int &, int &);
 void ordenar(int [], int);
+void ordenar(float [], char []);
 
 // A) 
 void borrado(int [], int &);
@@ -47,13 +48,15 @@ int main(){
 
 
     float promedioMayor[5];
+    char comisiones[5] = {'A', 'B', 'C', 'D', 'E'};
     topisimo(notas, n, promedioMayor);
     cout << "Los mejores promedios para cada comisión son: " << endl;
-    cout << "COM 1: " << promedioMayor[0] << endl;
-    cout << "COM 2: " << promedioMayor[1] << endl;
-    cout << "COM 3: " << promedioMayor[2] << endl;
-    cout << "COM 4: " << promedioMayor[3] << endl;
-    cout << "COM 5: " << promedioMayor[4] << endl;
+    
+    ordenar(promedioMayor, comisiones);
+
+    for(int i=0; i<5; i++){
+        cout << "COM " << comisiones[i] << ": " << promedioMayor[i] << endl;
+    }
 
     cout << endl << "Las comisiones que tienen '-1' no tienen alumnos." << endl;
 
@@ -141,6 +144,17 @@ void ordenar(int vec[], int tl){
         for(int j=0; j < tl-i-1; j++){
             if(menor(vec[j+1], vec[j])){
                 intercambio(vec[j+1], vec[j]);
+            }
+        }
+    }
+}
+
+void ordenar(float promedioMayor[], char comision[]){
+    for(int i=0; i<5; i++){
+        for(int j=0; j < 5-i-1; j++){
+            if(promedioMayor[j+1]>promedioMayor[j]){
+                swap(promedioMayor[j+1], promedioMayor[j]);
+                swap(comision[j+1], comision[j]);
             }
         }
     }
