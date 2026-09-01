@@ -40,9 +40,7 @@ Para calcular la edad y la antigüedad, utilizar como fecha de referencia el `01
 
 ```text
 6
-AnaPerez 
-San Martin 123 Sur 
-10 5 2000 F 60000 Operario 15 2 2018
+AnaPerez San Martin 123 Sur 10 5 2000 F 60000 Operario 15 2 2018
 BrunoDiaz Urquiza 456 Candioti 20 11 1995 M 70000 JefeDeArea 1 6 2021
 CarlaGomez Belgrano 789 Sur 3 8 2002 F 55000 Gerente 10 1 2019
 DiegoLopez Rivadavia 101 Candioti 12 12 1990 M 80000 Operario 5 3 2015
