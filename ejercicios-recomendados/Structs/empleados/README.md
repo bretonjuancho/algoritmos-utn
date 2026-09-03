@@ -12,11 +12,7 @@ Crear una estructura `Empleado` que contenga la siguiente información:
 - **Categoría**: `Operario`, `Jefe de área` o `Gerente`.
 - **Fecha de ingreso**: día, mes y año.
 
-Utilizando esta estructura, declarar un vector de 100 elementos para administrar los empleados de una empresa.
-
-Para la carga utilizando `cin >>`, considerar que la primera línea indica la cantidad de empleados y que cada línea siguiente contiene los campos separados por espacios, en este orden. Cada campo debe ser una sola palabra, ya que `cin >>` finaliza la lectura al encontrar un espacio.
-
-Para los valores que normalmente contienen espacios, utilizar una única palabra: `MariaSelva` para el barrio María Selva y `JefeDeArea` para la categoría Jefe de área. Los nombres y las calles también deben ingresarse sin espacios, por ejemplo `AnaPerez` y `SanMartin`.
+Utilizando esta estructura, declarar un vector de 0 < N <= 100 elementos para administrar los empleados de una empresa.
 
 ```text
 nombre calle número barrio día mes año sexo sueldo categoría día mes año
@@ -40,7 +36,7 @@ Para calcular la edad y la antigüedad, utilizar como fecha de referencia el `01
 
 ```text
 6
-AnaPerez San Martin 123 Sur 10 5 2000 F 60000 Operario 15 2 2018
+AnaPerez SanMartin 123 Sur 10 5 2000 F 60000 Operario 15 2 2018
 BrunoDiaz Urquiza 456 Candioti 20 11 1995 M 70000 JefeDeArea 1 6 2021
 CarlaGomez Belgrano 789 Sur 3 8 2002 F 55000 Gerente 10 1 2019
 DiegoLopez Rivadavia 101 Candioti 12 12 1990 M 80000 Operario 5 3 2015
