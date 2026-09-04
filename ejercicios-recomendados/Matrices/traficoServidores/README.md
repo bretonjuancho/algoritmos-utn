@@ -6,7 +6,7 @@ El elemento `correo[i][j]` indicará el número de kb de correo enviados desde e
 
 ## Información a obtener
 
-1. Total de correo, en kb, enviado por cada uno de los cinco servidores.
+1. Total de correo, en kb, enviado por cada uno de los servidores.
 2. Número del servidor que ha enviado la mayor cantidad de kb en correos.
 3. Servidores que recibieron correo por encima de una cota `M` establecida, recibida como dato.
 
