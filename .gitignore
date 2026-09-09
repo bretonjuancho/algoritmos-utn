@@ -1,3 +1,9 @@
 _private/
 .vscode/
 .cph/
+
+# Zinjai / C++ (artefactos de compilacion, no commitear)
+**/Debug/
+**/Release/
+*.o
+*.exe
