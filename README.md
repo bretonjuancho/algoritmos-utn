@@ -12,7 +12,7 @@ Ejercicios • Presentaciones • Ejemplos en C++ • Material de práctica • 
 
 ---
 
-## 📖 Acerca del repositorio
+## 🧑‍💻 Acerca del repositorio
 
 Este repositorio reúne el material que utilizo como profesor particular para las clases de **Algoritmos y Estructuras de Datos** en la Universidad Tecnológica Nacional (UTN).
 
@@ -63,7 +63,7 @@ La mejor forma de prepararse es intentar resolverlos sin consultar la solución.
 
 ---
 
-# 🚀 Recomendaciones de estudio
+# 📖 Recomendaciones de estudio
 
 Para aprovechar mejor el material, se recomienda seguir este orden:
 
