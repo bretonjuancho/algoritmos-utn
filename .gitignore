@@ -7,3 +7,6 @@ _private/
 **/Release/
 *.o
 *.exe
+
+# Archivos temporales de Office
+~$*
