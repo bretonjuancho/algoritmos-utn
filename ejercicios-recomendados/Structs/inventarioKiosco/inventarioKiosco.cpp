@@ -15,6 +15,7 @@ void ingresoDatos(int &, Producto []);
 void valorPorProducto(Producto [], int);
 void productoMasCaroYBarato(Producto [], int);
 void productosAReponer(Producto [], int);
+
 void ordenarPorPrecio(Producto [], int);
 void mostrarOrdenadosPorPrecio(Producto [], int);
 
@@ -31,8 +32,8 @@ int main(){
     productoMasCaroYBarato(productos, n);
     productosAReponer(productos, n);
 
-    ordenarPorPrecio(productos, n);
-    mostrarOrdenadosPorPrecio(productos, n);
+    //ordenarPorPrecio(productos, n);
+    //mostrarOrdenadosPorPrecio(productos, n);
 
     return 0;
 }
